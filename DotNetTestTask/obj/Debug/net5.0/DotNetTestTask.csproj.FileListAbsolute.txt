@@ -1,0 +1,12 @@
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\bin\Debug\net5.0\DotNetTestTask.deps.json
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\bin\Debug\net5.0\DotNetTestTask.dll
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\bin\Debug\net5.0\ref\DotNetTestTask.dll
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\bin\Debug\net5.0\DotNetTestTask.pdb
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\obj\Debug\net5.0\DotNetTestTask.csprojAssemblyReference.cache
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\obj\Debug\net5.0\DotNetTestTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\obj\Debug\net5.0\DotNetTestTask.AssemblyInfoInputs.cache
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\obj\Debug\net5.0\DotNetTestTask.AssemblyInfo.cs
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\obj\Debug\net5.0\DotNetTestTask.csproj.CoreCompileInputs.cache
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\obj\Debug\net5.0\DotNetTestTask.dll
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\obj\Debug\net5.0\ref\DotNetTestTask.dll
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetTestTask\obj\Debug\net5.0\DotNetTestTask.pdb
