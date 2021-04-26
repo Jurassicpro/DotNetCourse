@@ -1,0 +1,12 @@
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\bin\Debug\net5.0\DotNetDomain.deps.json
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\bin\Debug\net5.0\DotNetDomain.dll
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\bin\Debug\net5.0\ref\DotNetDomain.dll
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\bin\Debug\net5.0\DotNetDomain.pdb
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\obj\Debug\net5.0\DotNetDomain.csprojAssemblyReference.cache
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\obj\Debug\net5.0\DotNetDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\obj\Debug\net5.0\DotNetDomain.AssemblyInfoInputs.cache
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\obj\Debug\net5.0\DotNetDomain.AssemblyInfo.cs
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\obj\Debug\net5.0\DotNetDomain.csproj.CoreCompileInputs.cache
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\obj\Debug\net5.0\DotNetDomain.dll
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\obj\Debug\net5.0\ref\DotNetDomain.dll
+D:\IDE\progr-code\С# labs\DotNetCourse\DotNetCourse\DotNetDomain\obj\Debug\net5.0\DotNetDomain.pdb

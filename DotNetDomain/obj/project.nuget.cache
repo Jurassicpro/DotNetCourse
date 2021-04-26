@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tJo9EQe9/TtfLgT+qZ9V9nnz8YhCqQQUrnOqCXK5adkzIc5Kh5UW6lAdNkx3nc7pyV99beZDyhUrZX4XOq9Fag==",
+  "success": true,
+  "projectFilePath": "D:\\IDE\\progr-code\\С# labs\\DotNetCourse\\DotNetCourse\\DotNetDomain\\DotNetDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис-ПК\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
